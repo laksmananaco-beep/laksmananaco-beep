@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Laksmana
 
-<!--
-**laksmananaco-beep/laksmananaco-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer  
+🎨 UI/UX Enthusiast  
+💻 React & Tailwind CSS  
+🔥 Building modern websites
 
-Here are some ideas to get you started:
+## My Projects
+- Personal Branding Website
+- LaksCoffee Landing Page
+- EduSmart School Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- React JS
+- Tailwind CSS
+- Framer Motion
+- Vercel
